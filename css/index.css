@@ -1,0 +1,14 @@
+.header{
+background-color:yellow (211, 66, 240);
+color: rgb(210, 223, 101);
+padding: 20px;
+border-bottom: 10px solid lawngreen;
+font-size: 0.7cm;
+text-align: center;
+font-family: 'Gill Sans';
+margin: 1px;
+}
+
+#you {
+    height: 300px;
+}
